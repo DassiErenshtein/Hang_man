@@ -1,0 +1,2 @@
+{'name': 'dassi', 'id': '328186622', 'password': '1', 'sum_games': 4, 'last_words': ['פרח לב הזהב', 'green field', 'שעת סיפור'], 'sum_wins': 1}
+{'name': 'moti', 'id': '217524065', 'password': '1234', 'sum_games': 3, 'last_words': ['עוגת שוקולד', 'גשם חזק', 'כחול לבן'], 'sum_wins': 1}
